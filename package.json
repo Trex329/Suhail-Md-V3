@@ -1,6 +1,6 @@
 {
-   "name": "suhail-md",
-   "version": "1.3.7",
+   "name": "suhail-md-v3",
+   "version": "1.3.8",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",  
@@ -72,9 +72,9 @@
    "devDependencies": {
       "pino": "^7.0.5"
    },
-   "--repository": {
+   "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md-V3.git"
    },
    "--bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
    "--homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
