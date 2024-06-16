@@ -13,13 +13,13 @@
       "required" :true
     },   
      
-    "WELCOME": {
+    "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
       "required" :false
     },
      
-    "GOODBYE": {
+    "CAN_GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
       "required" :false
@@ -57,7 +57,7 @@
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
       "required" :false,
-      "value": "false"
+      "value": "true"
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
@@ -89,7 +89,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
